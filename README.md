@@ -37,24 +37,24 @@ Para motivar os usuários, a Style Move criou uma gameficação na aplicação, 
 ## 🔖 Layout
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="./public/img1.JPG" width="400px" />
+  <img alt="inicio" title="inicio" src="./public/img1.JPG" width="900px" />
 </h1>
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="./public/img2.JPG" width="400px" />
+  <img alt="inicio" title="inicio" src="./public/img2.JPG" width="900px" />
 </h1>
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="./public/img3.JPG" width="400px" />
+  <img alt="inicio" title="inicio" src="./public/img3.JPG" width="900px" />
 </h1>
 
 <h1 align="center">
-  <img alt="inicio" title="inicio" src="./public/img4.JPG" width="400px" />
+  <img alt="inicio" title="inicio" src="./public/img4.JPG" width="900px" />
 </h1>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.main/LICENSE.md) para mais detalhes.
 
 ---
 
