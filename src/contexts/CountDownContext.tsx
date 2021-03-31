@@ -22,7 +22,7 @@ export function CountDownProvider({ children }: CountDownProviderProps){
 
   let countDownTimeOut: NodeJS.Timeout;
 
-  const [time, setTime] = useState(0.1 * 60);
+  const [time, setTime] = useState(0.1 * 15000);
   const [isActive, setIsActive] = useState(false);
   const [hasFinished, setHasFinished] = useState(false);
 
@@ -36,7 +36,7 @@ export function CountDownProvider({ children }: CountDownProviderProps){
   function resetCountDown() {
     clearTimeout(countDownTimeOut);
     setIsActive(false);
-    setTime(0.1 * 60);
+    setTime(0.1 * 15000);
     setHasFinished(false);
   }
 
