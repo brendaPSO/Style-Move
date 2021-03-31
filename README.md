@@ -54,8 +54,8 @@ Para motivar os usuários, a Style Move criou uma gameficação na aplicação, 
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.main/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE.md) para mais detalhes.
 
 ---
 
-Feito por Brenda Orlandi, referência  pela Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito por Brenda Orlandi, referência: NLW#4 Rocketseat.
